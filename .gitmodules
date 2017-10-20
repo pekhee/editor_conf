@@ -1,0 +1,3 @@
+[submodule "layers/extended-editor"]
+	path = layers/extended-editor
+	url = git@github.com:pekhee/emacs_extended_editor.git
